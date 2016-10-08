@@ -3,8 +3,6 @@ package com.alexander.app;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.alexander.app.App;
-
 public class AppTest {
 
 	@Test
