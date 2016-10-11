@@ -2,7 +2,6 @@ package com.alexander.sorting;
 
 public class Bubble {
 
-
     public static void main(String[] args) {
 
         int[] nums = {1 ,3, 4 , 5, 6, 2 ,7, 0, 21, 10};
