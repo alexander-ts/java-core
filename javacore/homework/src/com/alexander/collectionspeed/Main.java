@@ -1,4 +1,4 @@
-package com.company;
+package com.alexander.collectionspeed;
 
 
 import java.util.*;
@@ -176,6 +176,9 @@ class CollectionTester{
 
 
         CollectionTester a = new CollectionTester();
+
+        HashSet set = new HashSet();
+
 
         a.ArrayListTest(1000);
         a.LinkedListTest(1000);
