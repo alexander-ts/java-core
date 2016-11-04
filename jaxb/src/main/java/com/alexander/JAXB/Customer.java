@@ -1,4 +1,4 @@
-package main.java.com.alexander.JAXB;
+package com.alexander.JAXB;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;

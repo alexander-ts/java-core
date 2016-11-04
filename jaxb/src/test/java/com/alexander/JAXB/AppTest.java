@@ -1,4 +1,4 @@
-package test.java.com.alexander.JAXB;
+package com.alexander.JAXB;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

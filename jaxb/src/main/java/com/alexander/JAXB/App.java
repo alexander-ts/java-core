@@ -1,4 +1,4 @@
-package main.java.com.alexander.JAXB;
+package com.alexander.JAXB;
 
 /**
  * Hello world!

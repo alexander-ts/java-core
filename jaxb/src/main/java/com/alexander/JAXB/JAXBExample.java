@@ -1,4 +1,4 @@
-package main.java.com.alexander.JAXB;
+package com.alexander.JAXB;
 
 import java.io.File;
 
